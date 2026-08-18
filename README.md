@@ -1,2 +1,2 @@
-# Pulse-Interactive-s-landing-page
+# Pulse-Interactive's-landing-page
 landing page
